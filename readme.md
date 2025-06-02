@@ -149,7 +149,7 @@ This section outlines the systematic approach employed to complete the data coll
 - Completed mileage entries for all available projects
 
 
-**Key Finding**: 40 out of 203 projects have officially documented "NA" (not available) project lengths as stated in project proposals.
+**Key Finding**: 40 out of 203 projects have officially documented "NA" (not available) project lengths as stated in the official project proposals.
 
 ### Phase 12: Data Finalization (`14.ipynb`)
 **Objective**: Final data cleaning and output formatting
