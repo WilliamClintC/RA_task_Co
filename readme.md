@@ -115,7 +115,7 @@ This section outlines the systematic approach employed to complete the data coll
 - Bid amounts
 - Project award status
 
-**Output**: `"C:\Users\clint\Desktop\RA_task_Co\Ohio_projects_collected_clean_supplement_2.xlsx"`
+**Output**: `Ohio_projects_collected_clean_supplement_2.xlsx`
 
 **Note**: Due to time constraints and task scope requirements, accuracy verification of this extended dataset was not performed.
 
