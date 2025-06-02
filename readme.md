@@ -20,7 +20,7 @@ This codebase outputs four key files:
   - Project award status
 
 
-This project delivers a comprehensive data collection solution as outlined in `RA_Task.pdf`. While the original requirements specified analysis of 5 projects, the scope was expanded to encompass all 202 available projects in the dataset, demonstrating thoroughness, technical proficiency and interest. Additional data fields have been incorporated to ensure completeness and enhance analytical values.
+This project delivers a comprehensive data collection solution as outlined in `RA_Task.pdf`. While the original requirements specified analysis of 5 projects, the scope was expanded to encompass all 202 available projects in the dataset, demonstrating thoroughness, technical proficiency and interest. Additional data fields have been incorporated to ensure completeness and enhance analytical values. Any specific details or specific "judgement calls" can be found in the individual jupyter notebook files. 
 
 **Note**: Due to project timeline constraints, the codebase prioritized functionality and deliverable completion. Future iterations would benefit from improved readability, and organization.
 
