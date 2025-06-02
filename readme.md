@@ -8,16 +8,16 @@
 
 ## Summary
 
-- This folder outputs four key files:
-  - **Ohio_projects_collected_clean.xlsx**: Contains all projects, mapped and completed according to the 10 specified fields.
-  - **Ohio_projects_collected_clean_individually_verified.xlsx**: Contains the five distinct projects specified in "RA_Task.pdf", each individually and manually verified and documented in `15.ipynb`in accordance with the requirements outlined in `RA_Task.pdf`. These projects were randomly sampled to ensure unbiased selection demonstrating robust data collection and verification methodology as required by the assignment. The methodology, supporting evidence, and results are thoroughly detailed within the notebook. This process ensured that all blank fields for the sampled projects were accurately completed based on assignment.
+This codebase outputs four key files:
+- **Ohio_projects_collected_clean.xlsx**: Contains all projects, mapped and completed according to the 10 specified fields.
+- **Ohio_projects_collected_clean_individually_verified.xlsx**: Contains the five distinct projects specified in "RA_Task.pdf", each individually and manually verified and documented in `15.ipynb`in accordance with the requirements outlined in `RA_Task.pdf`. These projects were randomly sampled to ensure unbiased selection demonstrating robust data collection and verification methodology as required by the assignment. The methodology, supporting evidence, and results are thoroughly detailed within the notebook. This process ensured that all blank fields for the sampled projects were accurately completed based on assignment.
 
-  - **Ohio_projects_collected_clean_supplement_1.xlsx**: Provides supplementary data with additional fields derived from "Ohio_projects_collected.xlsx".
-  - **Ohio_projects_collected_clean_supplement_2.xlsx**: Contains supplementary bidder information, including:
-    - Bidder names and addresses
-    - Bidder locations
-    - Bid amounts
-    - Project award status
+- **Ohio_projects_collected_clean_supplement_1.xlsx**: Provides supplementary data with additional fields derived from "Ohio_projects_collected.xlsx".
+- **Ohio_projects_collected_clean_supplement_2.xlsx**: Contains supplementary bidder information, including:
+  - Bidder names and addresses
+  - Bidder locations
+  - Bid amounts
+  - Project award status
 
 
 This project delivers a comprehensive data collection solution as outlined in `RA_Task.pdf`. While the original requirements specified analysis of 5 projects, the scope was expanded to encompass all 202 available projects in the dataset, demonstrating thoroughness, technical proficiency and interest. Additional data fields have been incorporated to ensure completeness and enhance analytical values.
