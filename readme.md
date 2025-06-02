@@ -38,7 +38,7 @@ During data validation, a significant discrepancy was identified in the mileage 
 
 - [Summary](#Summary)
 - [Data Quality Assessent](#data-quality-assessment)
-- [Project Methodology](#project-methodology
+- [Project Methodology](#project-methodology)
 
 
 ## Project Methodology
