@@ -32,6 +32,7 @@ During data validation, a significant discrepancy was identified in the mileage 
 - Cross-referencing with the project proposal (`180326.pdf`) indicates a project length of 6.49 miles
 - The edge line measurement in the bid tabulation (`180326bidtab.pdf`) shows 12.98 miles
 - Since roads typically have edge lines on both sides, the actual project length would be 12.98 ÷ 2 = 6.49 miles, matching the proposal documentation
+- It is likely that the correct value is 6.49 miles rather than 12.982 miles
 
 ## Table of Contents
 
