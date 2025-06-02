@@ -35,12 +35,10 @@ During data validation, a significant discrepancy was identified in the mileage 
 
 ## Table of Contents
 
-- [Executive Summary](#Summary)
+- [Summary](#Summary)
 - [Data Quality Assessent](#data-quality-assessment)
-- [Project Methodology](#project-methodology)
-- [Key Outputs](#key-outputs)
-- [Technical Implementation](#technical-implementation)
-- [Data Sources](#data-sources)
+- [Project Methodology](#project-methodology
+
 
 ## Project Methodology
 
