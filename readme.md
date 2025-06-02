@@ -1,5 +1,11 @@
 # RA Task - Ohio Highway Resurfacing Data Collection Project
 
+## Table of Contents
+
+- [Summary](#Summary)
+- [Data Quality Assessent](#data-quality-assessment)
+- [Project Methodology](#project-methodology)
+
 ## Summary
 
 - This folder outputs four key files:
@@ -33,13 +39,6 @@ During data validation, a significant discrepancy was identified in the mileage 
 - The edge line measurement in the bid tabulation (`180326bidtab.pdf`) shows 12.98 miles
 - Since roads typically have edge lines on both sides, the actual project length would be 12.98 ÷ 2 = 6.49 miles, matching the proposal documentation
 - It is likely that the correct value is 6.49 miles rather than 12.982 miles
-
-## Table of Contents
-
-- [Summary](#Summary)
-- [Data Quality Assessent](#data-quality-assessment)
-- [Project Methodology](#project-methodology)
-
 
 ## Project Methodology
 
