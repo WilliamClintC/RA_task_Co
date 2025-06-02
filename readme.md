@@ -18,16 +18,6 @@ This project delivers a comprehensive data collection solution as outlined in `R
 
 **Note**: Due to project timeline constraints, the codebase prioritized functionality and deliverable completion. Future iterations would benefit from improved readability, and organization.
 
-
-## Table of Contents
-
-- [Executive Summary](#executive-summary)
-- [Data Quality Assessment](#data-quality-assessment)
-- [Project Methodology](#project-methodology)
-- [Key Outputs](#key-outputs)
-- [Technical Implementation](#technical-implementation)
-- [Data Sources](#data-sources)
-
 ## Data Quality Assessment
 
 ### Critical Finding: Project ID 105522 Mileage Discrepancy
@@ -42,6 +32,15 @@ During data validation, a significant discrepancy was identified in the mileage 
 - Cross-referencing with the project proposal (`180326.pdf`) indicates a project length of 6.49 miles
 - The edge line measurement in the bid tabulation (`180326bidtab.pdf`) shows 12.98 miles
 - Since roads typically have edge lines on both sides, the actual project length would be 12.98 ÷ 2 = 6.49 miles, matching the proposal documentation
+
+## Table of Contents
+
+- [Executive Summary](#Summary)
+- [Data Quality Assessent](#data-quality-assessment)
+- [Project Methodology](#project-methodology)
+- [Key Outputs](#key-outputs)
+- [Technical Implementation](#technical-implementation)
+- [Data Sources](#data-sources)
 
 ## Project Methodology
 
