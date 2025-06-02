@@ -58,7 +58,7 @@ This section outlines the systematic approach employed to complete the data coll
 ### Phase 2: Automated County and Route Information Extraction (`2.ipynb`)
 **Objective**: Systematically extract geographical and route data
 
-**Process**:
+**Activities**:
 - Implemented automated search functionality using the Transportation Information Mapping System (TIMS)
 - Extracted county and route information for all projects
 - Generated FIPS codes using county and state information
@@ -90,7 +90,7 @@ This section outlines the systematic approach employed to complete the data coll
 ### Phase 5: PDF Document Processing (`6.ipynb`)
 **Objective**: Download and process project documentation
 
-**Process**:
+**Activities**:
 - Downloaded project proposal and bid tabulation PDFs
 - Prepared documents for engineering estimate extraction
 - Extracted bidder lists and count information
@@ -127,7 +127,7 @@ This section outlines the systematic approach employed to complete the data coll
 ### Phase 9: Error Correction (`10.ipynb`)
 **Objective**: Address minor dataset errors identified during validation
 
-**Process**: Implemented targeted corrections to improve data quality
+**Activities**: Implemented targeted corrections to improve data quality
 
 ### Phase 10: Mileage Analysis (`11.ipynb`)
 **Objective**: Determine appropriate mileage measurement methodology
@@ -140,7 +140,7 @@ This section outlines the systematic approach employed to complete the data coll
 ### Phase 11: Debugging and Error Resolution (`12.ipynb` and `13.ipynb`)
 **Objective**: Systematic error identification and resolution
 
-**Process**:
+**Activities**:
 - Conducted thorough debugging of data extraction processes
 - Identified and resolved all error sources
 - Completed mileage entries for all available projects
